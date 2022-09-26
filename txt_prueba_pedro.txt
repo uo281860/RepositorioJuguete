@@ -1,1 +1,2 @@
-Prueba de git de Pedro
+No, esto es prueba de conflicto
+Prueba de git de Pedro cambiada para intentar conflicto
