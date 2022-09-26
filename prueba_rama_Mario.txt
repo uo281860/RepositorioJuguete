@@ -1,1 +1,1 @@
-Hola, esta es la prueba de la rama de Mario!
+Esto es una prueba de conflicto
